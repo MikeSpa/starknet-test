@@ -5,6 +5,10 @@ Cairo is a programming language for writing provable programs, where one party c
 
 StarkNet uses the Cairo programming language both for its infrastructure and for writing StarkNet contracts.
 
+## StarkNet Account
+
+0x000bf956aa76fa0d30bac1c0fab5adc4e975ec1f78354c880b95e5f2e93fd901
+
 ## Compiling the contract
 
 compile contract with `starknet-compile`:
